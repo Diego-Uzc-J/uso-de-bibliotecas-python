@@ -18,7 +18,7 @@ python3 01_numpy_demo/practicas_numpy_usos_basicos.py
 
 ### Output:
 
-```
+```text
 ### Creación de un array y uso de funciones básicas con NumPy
 [12  2  9  4  7 14  3]
 Tipo:  <class 'numpy.ndarray'>

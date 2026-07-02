@@ -18,7 +18,7 @@ Este proyecto implementa **Pandas** para simular un flujo de trabajo real de an√
 python3 02_pandas_demo/practicas_pandas_usos_basicos.py
 ```
 ### Output:
-```
+```text
 ### Creaci√≥n de un DataFrame (df) desde un diccionario con Pandas
 <class 'pandas.core.frame.DataFrame'>
 guardar datos en csv
