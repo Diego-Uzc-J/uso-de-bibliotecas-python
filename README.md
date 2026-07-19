@@ -1,4 +1,4 @@
-# Portafolio de Fundamentos de Ciencia de Datos en Python
+# Fundamentos de Ciencia de Datos en Python
 
 ¡Hola! Soy desarrollador Python actualmente enfocandome en Análisis de Datos (Nivel Junior). En este repositorio presento scripts prácticos diseñados para demostrar el manejo, manipulación y visualización de datos utilizando las bibliotecas esenciales del ecosistema.
 
